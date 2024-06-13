@@ -1,0 +1,1 @@
+import{H as t}from"./BbRu2dFG.js";import{t as a,y as s,v as e,s as o}from"./I7S8ZRKh.js";const r=e("div",{class:"max-w-[1200px] mx-auto p-6"},[e("h1",{class:"text-2xl font-bold mb-4"},"Тарифы")],-1),p={__name:"tariffs",setup(c){return(l,m)=>(o(),a("div",null,[s(t),r]))}};export{p as default};
