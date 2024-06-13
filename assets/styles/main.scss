@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+//41*700
+.font-h1 {
+  @apply font-ptsans text-[41px] font-bold leading-[49.2px]
+};
+
+//12*400
+.font-label {
+  @apply font-ptsans text-[12px] font-normal leading-[14.4px]
+};
+
+.input-form {
+  @apply block w-full h-[40px] border-[1px] border-super-dark-gray rounded-[5px]
+};
+
+//18*400
+.font-btn {
+  @apply font-ptsans text-[18px] font-normal leading-[23.29px] rounded-[5px] border-[1px]
+};
+
+//13*400
+.font-politic {
+  @apply font-ptsans text-[13px] font-normal leading-[15.6px] 
+};
+
+//34*700
+.font-h2 {
+  @apply font-ptsans text-[34px] font-bold leading-[40.8px] 
+};
+
+//18*700
+.font-titl-feat {
+  @apply font-ptsans text-[18px] font-bold leading-[21.6px] text-dark-blue
+};
+
+//15*400
+.font-desc-feat {
+  @apply font-ptsans text-[15px] font-normal leading-[21.6px] text-black
+};
+
+
+
+//18*400
+.font-desc-doc {
+  @apply font-ptsans text-[18px] font-normal leading-[21.6px]
+};
+
+//31*700
+.font-titl-doc {
+  @apply font-ptsans text-[31px] font-bold leading-[37.2px] text-dark-blue
+};
+
+//15*400
+.font-btn-head {
+  @apply font-ptsans text-[15px] font-normal leading-[19.41px] text-white
+};
