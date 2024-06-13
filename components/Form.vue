@@ -63,7 +63,7 @@
       </form>
     </div>
     <div class="max-w-[500px]">
-      <img src="/assets/images/img.png" alt="" class="bg-auto" />
+      <img src="./assets/images/img.png" alt="h" class="bg-auto" />
     </div>
     <Modal :isOpen="isModalOpen" :videoSrc="videoSrc" @close="closeModal" />
   </div>

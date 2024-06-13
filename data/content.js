@@ -4,32 +4,32 @@ export const content = {
       {
         title: 'Неограниченный автопарк',
         description: 'Можете добавлять неограниченное количество автомобилей в автопарк.',
-        image: '/images/1.svg'
+        image: '/assets/images/1.svg'
       },
       {
         title: 'Сокращение затрат до 50%',
         description: 'Найдены на быстрое улучшение качества и как следствие значительное снижение затрат на оплату.',
-        image: '/images/2.svg'
+        image: '/assets/images/2.svg'
       },
       {
         title: 'Безопасность',
         description: 'Данные пользователей надежно защищены и недоступны третьим лицам.',
-        image: '/images/3.svg'
+        image: '/assets/images/3.svg'
       },
       {
         title: 'Уведомление о погашении',
         description: 'Получите все необходимые данные, чтобы закрыть штрафы в ГИС ГМП.',
-        image: '/images/4.svg'
+        image: '/assets/images/4.svg'
       },
       {
         title: 'Контроль об оплате',
         description: 'Уведомления и отчеты будут отправляться вам в личный кабинет или по почте, когда штраф будет оплачен.',
-        image: '/images/5.svg'
+        image: '/assets/images/5.svg'
       },
       {
         title: 'Все истории сохраняются на вашей машине',
         description: 'Все истории сохранены в вашем личном кабинете для удобного доступа в любое время.',
-        image: '/images/6.svg'
+        image: '/assets/images/6.svg'
       }
     ]
   };

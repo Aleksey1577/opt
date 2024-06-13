@@ -33,13 +33,13 @@
         @click="prevSlide"
         class="absolute left-0 top-1/2 transform -translate-y-1/2 bg-gray-200 p-2 rounded-full hover:bg-gray-300 z-10"
       >
-        <img src="/images/left.svg" alt="Previous Slide" />
+        <img src="/assets/images/left.svg" alt="Previous Slide" />
       </button>
       <button
         @click="nextSlide"
         class="absolute right-0 top-1/2 transform -translate-y-1/2 bg-gray-200 p-2 rounded-full hover:bg-gray-300 z-10"
       >
-        <img src="/images/right.svg" alt="Next Slide" />
+        <img src="/assets/images/right.svg" alt="Next Slide" />
       </button>
     </div>
     <div class="flex justify-center mt-4 space-x-2">
@@ -160,3 +160,4 @@ const indicatorClass = (index) => {
   z-index: 1;
 }
 </style>
+
