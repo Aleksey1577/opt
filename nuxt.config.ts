@@ -9,4 +9,8 @@ export default {
       autoprefixer: {},
     },
   },
+  target: "static",
+  generate: {
+    fallback: true,
+  },
 };
