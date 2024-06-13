@@ -1,0 +1,1 @@
+import{H as t}from"./Bo_PfjNw.js";import{t as a,y as s,v as e,s as o}from"./DdK2-WzX.js";const c=e("div",{class:"max-w-[1200px] mx-auto p-6"},[e("h1",{class:"text-2xl font-bold mb-4"},"Контакты")],-1),p={__name:"contacts",setup(r){return(n,l)=>(o(),a("div",null,[s(t),c]))}};export{p as default};
