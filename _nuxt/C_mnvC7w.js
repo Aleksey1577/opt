@@ -1,0 +1,1 @@
+import{openBlock as t,createElementBlock as o,createVNode as r,createElementVNode as e}from"vue";import{H as a}from"./ssNLTSR8.js";import"./9Ff56WzK.js";import"vue-router";const c=e("div",{class:"max-w-[1200px] mx-auto p-6"},[e("h1",{class:"text-2xl font-bold mb-4"},"Контакты")],-1),i={__name:"contacts",setup(m){return(s,n)=>(t(),o("div",null,[r(a),c]))}};export{i as default};
