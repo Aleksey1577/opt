@@ -63,7 +63,7 @@
       </form>
     </div>
     <div class="max-w-[500px]">
-      <img src="./assets/images/img.png" alt="h" class="bg-auto" />
+      <img src="/assets/images/img.png" alt="h" class="bg-auto" />
     </div>
     <Modal :isOpen="isModalOpen" :videoSrc="videoSrc" @close="closeModal" />
   </div>
@@ -86,7 +86,7 @@ const errors = ref({
 });
 
 const isModalOpen = ref(false);
-const videoSrc = ref("https://www.youtube.com/embed/DeqM073s5E8"); // Замените VIDEO_ID на ID вашего видео
+const videoSrc = ref("https://www.youtube.com/embed/DeqM073s5E8");
 
 const validateForm = () => {
   errors.value.number = !form.value.number;

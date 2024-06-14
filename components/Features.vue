@@ -23,5 +23,5 @@ const { features } = content;
 </script>
 
 <style scoped>
-/* Добавьте любые дополнительные стили, если нужно */
+
 </style>
